@@ -5,7 +5,7 @@
 
 `CURSO` 
 
-......  ANALISE E DESENVOLVIMENTO DE SISTEMAS ......
+......  ANÁLISE E DESENVOLVIMENTO DE SISTEMAS ......
 
 ## Participantes
 
