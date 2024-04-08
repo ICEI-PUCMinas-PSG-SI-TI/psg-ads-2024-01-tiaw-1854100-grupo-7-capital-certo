@@ -1,17 +1,15 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  CAPITAL CERTO ......
+......  COLOQUE AQUI O SEU TEXTO ......
 
 `CURSO` 
 
-......  ANÁLISE E DESENVOLVIMENTO DE SISTEMAS ......
+......  COLOQUE AQUI O SEU TEXTO ......
 
 ## Participantes
 
-......  Arthur Medeiros de Moraes
-Eduardo Medeiros de Moraes
-Octávio Vieira de Azevedo ......
+......  COLOQUE AQUI O SEU TEXTO ......
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
