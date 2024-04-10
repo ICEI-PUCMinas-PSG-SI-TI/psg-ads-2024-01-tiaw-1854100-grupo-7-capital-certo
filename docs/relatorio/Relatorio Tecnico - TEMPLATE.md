@@ -147,6 +147,14 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 > característica alvo da sua solução. Além disso, certifique-se de que
 > todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
+### Requisitos Não Funcionais
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|     |                   | ALTA | 
+|      |                     | MÉDIA |
+
+
 # Projeto da Solução
 
 ......  COLOQUE AQUI O SEU TEXTO ......
