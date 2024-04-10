@@ -7,7 +7,7 @@ Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
 * Arthur Medeiros de Moraes
 * Octávio Vieira de Azevedo
 * Luiz Felipe Souza Gomes 
-* Nome completo do aluno 4
+* Rafael Oliveira Moreira
 * Nome completo do aluno 4
 
 ## Professores responsáveis
