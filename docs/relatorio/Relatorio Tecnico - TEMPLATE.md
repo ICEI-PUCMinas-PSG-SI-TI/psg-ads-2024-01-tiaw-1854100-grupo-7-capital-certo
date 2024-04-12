@@ -41,7 +41,9 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Na busca pela erradicação da pobreza, é essencial abordar um fator-chave: a falta de educação financeira. Este problema contribui significativamente para a perpetuação do ciclo de pobreza em comunidades ao redor do mundo. Sem conhecimentos básicos sobre como administrar finanças pessoais, poupar e investir de forma adequada, indivíduos e famílias enfrentam dificuldades para sair da pobreza e construir um futuro financeiramente estável.
+
+ ......
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -53,7 +55,10 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  O objetivo geral deste trabalho é desenvolver um software capaz de oferecer soluções educativas para a falta de educação financeira e, consequentemente, contribuir para a erradicação da pobreza. Como objetivos específicos, pretendemos:
+
+Criar uma plataforma interativa e acessível, que disponibilize informações claras e didáticas sobre conceitos de educação financeira.
+Desenvolver ferramentas práticas e recursos de acompanhamento que auxiliem os usuários a aplicar os conhecimentos adquiridos em suas vidas cotidianas. ......
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -66,7 +71,9 @@
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  O público-alvo da aplicação é diversificado e inclui pessoas de todas as faixas etárias e níveis de escolaridade que enfrentam desafios relacionados à falta de educação financeira. Isso pode abranger desde jovens estudantes em fase de educação básica até adultos que buscam melhorar sua gestão financeira.
+
+Além disso, nossa aplicação visa alcançar também educadores, assistentes sociais e outros profissionais que trabalham diretamente com comunidades em situação de vulnerabilidade socioeconômica. Esses usuários desempenham um papel fundamental na disseminação de conhecimentos financeiros e podem utilizar a plataforma como uma ferramenta complementar em seus programas educativos e sociais. ......
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
