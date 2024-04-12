@@ -57,8 +57,9 @@
 
 ......  O objetivo geral deste trabalho é desenvolver um software capaz de oferecer soluções educativas para a falta de educação financeira e, consequentemente, contribuir para a erradicação da pobreza. Como objetivos específicos, pretendemos:
 
-Criar uma plataforma interativa e acessível, que disponibilize informações claras e didáticas sobre conceitos de educação financeira.
-Desenvolver ferramentas práticas e recursos de acompanhamento que auxiliem os usuários a aplicar os conhecimentos adquiridos em suas vidas cotidianas. ......
+1 - Criar uma plataforma interativa e acessível, que disponibilize informações claras e didáticas sobre conceitos de educação financeira.
+
+2 - Desenvolver ferramentas práticas e recursos de acompanhamento que auxiliem os usuários a aplicar os conhecimentos adquiridos em suas vidas cotidianas. ......
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
