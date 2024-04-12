@@ -148,6 +148,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário faça o cálculo do tempo necessário para aposentadoria | MÉDIA | 
 |RF-002| Permitir que o usuário selecione um período de tempo para calcular a inflação acumulada no Brasil nesse período.   | MÉDIA |
+|RF-003| Permitir que o usuário faça o cálculo do tempo necessário para aposentadoria | MÉDIA |
 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
