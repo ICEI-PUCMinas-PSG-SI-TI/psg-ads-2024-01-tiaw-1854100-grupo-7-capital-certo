@@ -149,7 +149,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RF-001| Permitir que o usuário faça o cálculo do tempo necessário para aposentadoria privada | MÉDIA | 
 |RF-002| Permitir que o usuário selecione um período de tempo para calcular a inflação acumulada no Brasil nesse período.   | MÉDIA |
 |RF-003| Permitir que o usuário faça o cálculo de imposto de renda | MÉDIA |
-|RF-004| Permitir que o usuário veja o valor do cambio de moedas de diferentes países | MÉDIA |
+|RF-004| Permitir que o usuário veja o valor do câmbio de moedas de diferentes países | MÉDIA |
 |RF-005| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
 |RF-006| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
 |RF-007| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
