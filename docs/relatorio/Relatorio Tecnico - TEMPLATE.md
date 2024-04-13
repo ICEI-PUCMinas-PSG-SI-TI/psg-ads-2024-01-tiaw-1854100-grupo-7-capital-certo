@@ -168,10 +168,16 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 ### Requisitos Não Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|     |                   | ALTA | 
-|      |                     | MÉDIA |
+|ID     | Descrição do Requisito  | Prioridade |
+|-------|-----------------------------------------|----|
+|RNF-001|Interface fácil de usar para uma navegação sem complicações.| ALTA | 
+|RNF-002|A plataforma deve ser acessível para pessoas com diferentes habilidades.| ALTA |
+|RNF-003|Tempos de carregamento rápidos e respostas ágeis às interações do usuário.| MÉDIA |
+|RNF-004|Proteção robusta das informações pessoais e financeiras dos usuários.| ALTA |
+|RNF-005|Funcionamento eficaz em uma variedade de dispositivos e sistemas operacionais.| MÉDIA |
+|RNF-006|Permitir aos usuários ajustar preferências e receber recomendações personalizadas, não essencial para funcionalidade básica.| BAIXA |
+|RNF-007|Adaptar o conteúdo e as práticas financeiras para diferentes idiomas e culturas, importante para alcançar uma base de usuários global.| MÉDIA |
+|RNF-008|Implementar um sistema de manutenção eficiente para garantir relevância contínua, prioridade menor durante o estágio inicial.| BAIXA |
 
 
 # Projeto da Solução
