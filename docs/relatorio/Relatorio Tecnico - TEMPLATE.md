@@ -150,8 +150,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RF-002| Permitir que o usuário selecione um período de tempo para calcular a inflação acumulada no Brasil nesse período.   | MÉDIA |
 |RF-003| Permitir que o usuário faça o cálculo de imposto de renda | MÉDIA |
 |RF-004| Permitir que o usuário veja o valor do câmbio de moedas de diferentes países | MÉDIA |
-|RF-005| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
-|RF-006| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
+|RF-005| Integrar ferramentas como calculadoras de orçamento ou simuladores de investimento para oferecer aos usuários recursos financeiros úteis. | ALTA |
+|RF-006| Permitir que mentores definam horários disponíveis e que mentees agendem sessões, facilitando a comunicação entre mentor e mentee. | MEDIA |
 |RF-007| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
 |RF-008| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
 |RF-009| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
