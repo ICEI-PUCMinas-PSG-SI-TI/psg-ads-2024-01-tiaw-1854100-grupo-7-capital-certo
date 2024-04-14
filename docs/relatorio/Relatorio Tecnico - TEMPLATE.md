@@ -150,8 +150,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RF-004| Permitir que o usuário veja o valor do câmbio de moedas de diferentes países | MÉDIA |
 |RF-005| Integrar ferramentas como calculadoras de orçamento ou simuladores de investimento para oferecer aos usuários recursos financeiros úteis. | ALTA |
 |RF-006| Permitir que mentores definam horários disponíveis e que mentees agendem sessões, facilitando a comunicação entre mentor e mentee. | MEDIA |
-|RF-007| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
-|RF-008| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
+|RF-007| Permitir que o usuario tenha acesso a videos relacionados a educação financeira |  MEDIA |
+|RF-008| Integrar ferramenta de analise de gastos e lucros mensais | MEDIA |
 |RF-009| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
 |RF-010| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
 
@@ -217,7 +217,9 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 
 
 > **Exemplo de Diagrama (opcional, pode ser em texto)**
-> [Exemplo de Diagrama de Navegação](images/userflow.jpg)
+
+![User Flow Template](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-7-capital-certo/assets/166442102/701fbc66-3e0d-4a18-a0d5-2c75201cf060)
+
 
 # Conclusões
 
