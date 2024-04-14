@@ -194,9 +194,9 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-/images/imagem_2024-04-14_173212743.png
-imagem_2024-04-14_173820701.png
-imagem_2024-04-14_174220617.png
+![Exemplo de Link para Wireframe](images/imagem_2024-04-14_173212743.png)
+![Exemplo de Link para Wireframe](imagem_2024-04-14_173820701.png)
+![Exemplo de Link para Wireframe](imagem_2024-04-14_174220617.png)
 
 
 
