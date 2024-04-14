@@ -53,9 +53,9 @@ O objetivo geral deste trabalho é desenvolver um software capaz de oferecer sol
 
 ## Público-Alvo
 
-......  O público-alvo da aplicação é diversificado e inclui pessoas de todas as faixas etárias e níveis de escolaridade que enfrentam desafios relacionados à falta de educação financeira. Isso pode abranger desde jovens estudantes em fase de educação básica até adultos que buscam melhorar sua gestão financeira.
+O público-alvo da aplicação é diversificado e inclui pessoas de todas as faixas etárias e níveis de escolaridade que enfrentam desafios relacionados à falta de educação financeira. Isso pode abranger desde jovens estudantes em fase de educação básica até adultos que buscam melhorar sua gestão financeira.
 
-Além disso, nossa aplicação visa alcançar também educadores, assistentes sociais e outros profissionais que trabalham diretamente com comunidades em situação de vulnerabilidade socioeconômica. Esses usuários desempenham um papel fundamental na disseminação de conhecimentos financeiros e podem utilizar a plataforma como uma ferramenta complementar em seus programas educativos e sociais. ......
+Além disso, nossa aplicação visa alcançar também educadores, assistentes sociais e outros profissionais que trabalham diretamente com comunidades em situação de vulnerabilidade socioeconômica. Esses usuários desempenham um papel fundamental na disseminação de conhecimentos financeiros e podem utilizar a plataforma como uma ferramenta complementar em seus programas educativos e sociais. 
  
 # Especificações do Projeto
 
@@ -121,14 +121,6 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RF-009| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
 |RF-010| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
 
-
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ### Requisitos Não Funcionais
 
