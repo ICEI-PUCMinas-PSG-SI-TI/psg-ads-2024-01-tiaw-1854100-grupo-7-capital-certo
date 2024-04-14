@@ -182,8 +182,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Projeto da Solução
 
->O desenvolvimento do software de educação financeira utilizou as seguintes tecnologias e frameworks:
->HTML5: Linguagem base para estruturação do conteúdo das páginas web.
+O desenvolvimento do software de educação financeira utilizou as seguintes tecnologias e frameworks:
+HTML5: Linguagem base para estruturação do conteúdo das páginas web.
 CSS3: Linguagem para estilização da interface gráfica do usuário, garantindo um design responsivo e agradável em diferentes dispositivos.
 JavaScript: Linguagem para implementar funcionalidades interativas no site, como calculadoras, gráficos e animações, proporcionando uma experiência dinâmica e engajadora para os usuários.
 Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript
