@@ -95,9 +95,9 @@ Além disso, nossa aplicação visa alcançar também educadores, assistentes so
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Esta parte do documento apresenta as personas, histórias de usuários e requisitos funcionais para o projeto de software de educação financeira. As personas representam os usuários-alvo do sistema, enquanto as histórias de usuários descrevem cenários de uso específicos. Os requisitos funcionais definem as funcionalidades que o sistema deve oferecer para atender às necessidades dos usuários.
+
+A coleta de dados para a criação das personas e histórias de usuários foi realizada através de entrevistas qualitativas. A ferramenta utilizada para organizar as informações e visualizar as personas foi o Miro.
 
 ## Personas
 
