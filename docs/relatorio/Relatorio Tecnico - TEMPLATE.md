@@ -194,9 +194,17 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-![Exemplo de Link para Wireframe](images/imagem_2024-04-14_173212743.png)
-![Exemplo de Link para Wireframe](imagem_2024-04-14_173820701.png)
-![Exemplo de Link para Wireframe](imagem_2024-04-14_174220617.png)
+![Página principal](images/imagem_2024-04-14_173212743.png)
+![Calculo de imposto de renda](image/imagem_2024-04-14_173820701.png)
+![calculo de câmbio](image/imagem_2024-04-14_174220617.png)
+![calculo de inflação](image/imagem_2024-04-14_175001446.png)
+![calculo de aposentadoria](image/imagem_2024-04-14_175147846.png)
+![Mentoria online](image/imagem_2024-04-14_175330452.png)
+![Parceria financeira](image/imagem_2024-04-14_175559796.png)
+![Controle de gasto](image/imagem_2024-04-14_175815312.png)
+![Videos e artigos ](image/imagem_2024-04-14_180047693.png)
+![calculo de câmbio](image/)
+
 
 
 
