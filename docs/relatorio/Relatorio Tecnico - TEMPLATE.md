@@ -193,8 +193,11 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 ## Wireframes
 
 <img src="images/imagem_2024-04-14_173212743.png">
+
 <img src="image/imagem_2024-04-14_173820701.png">
+
 <img src="image/imagem_2024-04-14_174220617.png">
+
 <img src="image/imagem_2024-04-14_175001446.png">
 <img src="image/imagem_2024-04-14_175147846.png">
 <img src="image/imagem_2024-04-14_175330452.png">
