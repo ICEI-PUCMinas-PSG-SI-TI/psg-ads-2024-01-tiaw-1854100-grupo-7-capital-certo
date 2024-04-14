@@ -93,8 +93,6 @@ Além disso, nossa aplicação visa alcançar também educadores, assistentes so
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 Esta parte do documento apresenta as personas, histórias de usuários e requisitos funcionais para o projeto de software de educação financeira. As personas representam os usuários-alvo do sistema, enquanto as histórias de usuários descrevem cenários de uso específicos. Os requisitos funcionais definem as funcionalidades que o sistema deve oferecer para atender às necessidades dos usuários.
 
 A coleta de dados para a criação das personas e histórias de usuários foi realizada através de entrevistas qualitativas. A ferramenta utilizada para organizar as informações e visualizar as personas foi o Miro.
@@ -182,11 +180,15 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Projeto da Solução
 
-O desenvolvimento do software de educação financeira utilizou as seguintes tecnologias e frameworks:
-HTML5: Linguagem base para estruturação do conteúdo das páginas web.
-CSS3: Linguagem para estilização da interface gráfica do usuário, garantindo um design responsivo e agradável em diferentes dispositivos.
+O desenvolvimento do software de Capital Certo utilizou as seguintes tecnologias e frameworks:
+
+HTML: Linguagem base para estruturação do conteúdo das páginas web.
+
+CSS: Linguagem para estilização da interface gráfica do usuário, garantindo um design responsivo e agradável em diferentes dispositivos.
+
 JavaScript: Linguagem para implementar funcionalidades interativas no site, como calculadoras, gráficos e animações, proporcionando uma experiência dinâmica e engajadora para os usuários.
-Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript
+
+Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 
 ## Wireframes
 
