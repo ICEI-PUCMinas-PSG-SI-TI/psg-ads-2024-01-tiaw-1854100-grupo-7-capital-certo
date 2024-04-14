@@ -203,6 +203,7 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 <img src="image/imagem_2024-04-14_180047693.png">
 <img src="image/">
 <img src="image/">
+<img src="URL_da_Imagem" alt="Texto Alternativo">
 
 
 
