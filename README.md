@@ -1,5 +1,5 @@
 # Capital Certo
-Escreva um ou dois parágrafos resumindo o objetivo do seu projeto.
+O projeto tem como objetivo desenvolver uma aplicação de software dedicada à diminuição da pobreza, focalizando na falta de educação financeira como um fator crucial nesse ciclo. Através de uma plataforma interativa e acessível, o software visa oferecer informações claras e didáticas sobre conceitos de educação financeira, acompanhadas por ferramentas práticas para aplicação no dia a dia. Destinado a um público diversificado, desde jovens estudantes até profissionais que trabalham com comunidades em situação de vulnerabilidade socioeconômica, a aplicação busca capacitar os usuários a melhor gerenciar suas finanças pessoais e, consequentemente, romper o ciclo de pobreza.
 
 ## Alunos integrantes da equipe
 
