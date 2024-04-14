@@ -194,20 +194,11 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Link para Wireframe](images/imagem_2024-04-14_173212743.png)
+[Página inicial](images/imagem_2024-04-14_173212743.png)
+[Calculo de imposto de renda](imagem_2024-04-14_173820701.png)
+[Calculadora de Câmbio](imagem_2024-04-14_174220617.png)
+[Exemplo de Diagrama de Navegação]()
+
 
 
 ## Mapa de navegação
@@ -219,7 +210,7 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 
 
 > **Exemplo de Diagrama (opcional, pode ser em texto)**
-> ![Exemplo de Diagrama de Navegação](images/userflow.jpg)
+> [Exemplo de Diagrama de Navegação](images/userflow.jpg)
 
 # Conclusões
 
