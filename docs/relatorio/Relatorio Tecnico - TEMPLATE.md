@@ -41,55 +41,21 @@
 
 ## Problema
 
-......  Na busca pela erradicação da pobreza, é essencial abordar um fator-chave: a falta de educação financeira. Este problema contribui significativamente para a perpetuação do ciclo de pobreza em comunidades ao redor do mundo. Sem conhecimentos básicos sobre como administrar finanças pessoais, poupar e investir de forma adequada, indivíduos e famílias enfrentam dificuldades para sair da pobreza e construir um futuro financeiramente estável.
-
- ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos. Utilize como base a ficha inicial de detalhamento do problema.
->
+Na busca pela erradicação da pobreza, é essencial abordar um fator-chave: a falta de educação financeira. Este problema contribui significativamente para a perpetuação do ciclo de pobreza em comunidades ao redor do mundo. Sem conhecimentos básicos sobre como administrar finanças pessoais, poupar e investir de forma adequada, indivíduos e famílias enfrentam dificuldades para sair da pobreza e construir um futuro financeiramente estável
 
 ## Objetivos
 
-......  O objetivo geral deste trabalho é desenvolver um software capaz de oferecer soluções educativas para a falta de educação financeira e, consequentemente, contribuir para a erradicação da pobreza. Como objetivos específicos, pretendemos:
+O objetivo geral deste trabalho é desenvolver um software capaz de oferecer soluções educativas para a falta de educação financeira e, consequentemente, contribuir para a erradicação da pobreza. Como objetivos específicos, pretendemos:
 
 1 - Criar uma plataforma interativa e acessível, que disponibilize informações claras e didáticas sobre conceitos de educação financeira.
 
-2 - Desenvolver ferramentas práticas e recursos de acompanhamento que auxiliem os usuários a aplicar os conhecimentos adquiridos em suas vidas cotidianas. ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também pelo menos 2 objetivos
-> específicos dependendo de onde você vai querer concentrar ou aprofundar
-> as características do trabalho.
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+2 - Desenvolver ferramentas práticas e recursos de acompanhamento que auxiliem os usuários a aplicar os conhecimentos adquiridos em suas vidas cotidianas.
 
 ## Público-Alvo
 
 ......  O público-alvo da aplicação é diversificado e inclui pessoas de todas as faixas etárias e níveis de escolaridade que enfrentam desafios relacionados à falta de educação financeira. Isso pode abranger desde jovens estudantes em fase de educação básica até adultos que buscam melhorar sua gestão financeira.
 
 Além disso, nossa aplicação visa alcançar também educadores, assistentes sociais e outros profissionais que trabalham diretamente com comunidades em situação de vulnerabilidade socioeconômica. Esses usuários desempenham um papel fundamental na disseminação de conhecimentos financeiros e podem utilizar a plataforma como uma ferramenta complementar em seus programas educativos e sociais. ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
  
 # Especificações do Projeto
 
