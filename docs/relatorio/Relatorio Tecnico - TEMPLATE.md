@@ -207,7 +207,7 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 > 
 > **Exemplo**:
 > 
-> ![Exemplo de Link para Wireframe](images/wireframe-example.png)
+> ![Exemplo de Link para Wireframe](images/imagem_2024-04-14_173212743.png)
 
 
 ## Mapa de navegação
