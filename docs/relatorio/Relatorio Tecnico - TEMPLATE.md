@@ -1,23 +1,23 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  CAPITAL CERTO ......
+CAPITAL CERTO
 
 `CURSO` 
 
-......  ANÁLISE E DESENVOLVIMENTO DE SISTEMAS ......
+ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 
 ## Participantes
 
-......  Arthur Medeiros de Moraes ......
+Arthur Medeiros de Moraes
 
-......  Eduardo Medeiros de Moraes ......
+Eduardo Medeiros de Moraes
 
-......  Octávio Viera de Azevedo ......
+Octávio Viera de Azevedo
 
-......  Rafael Oliveira Moreira ......
+Rafael Oliveira Moreira
 
-......  Luiz Felipe Souza Gomes ......
+Luiz Felipe Souza Gomes
 
 # Estrutura do Documento
 
