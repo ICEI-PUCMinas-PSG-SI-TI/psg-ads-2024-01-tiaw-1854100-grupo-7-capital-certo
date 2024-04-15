@@ -74,14 +74,7 @@ A coleta de dados para a criação das personas e histórias de usuários foi re
 > Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
 > e/ou nos seguintes links:
 >
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> 
-> **Exemplo de Ficha**
-> ![Exemplo de Persona](images/persona.png)
+(images/persona.png)
  
 
 ## Histórias de Usuários
