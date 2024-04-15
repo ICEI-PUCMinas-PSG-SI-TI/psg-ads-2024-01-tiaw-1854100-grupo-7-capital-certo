@@ -65,15 +65,6 @@ A coleta de dados para a criação das personas e histórias de usuários foi re
 
 ## Personas
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Relacione as personas identificadas no seu projeto. Lembre-se que 
-> você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
-> Você pode incluir uma imagem da ficha de persona desenvolvida. 
->
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
-
 <img src="images/persona1.jpg">
 
 <img src="images/persona2.jpg">
