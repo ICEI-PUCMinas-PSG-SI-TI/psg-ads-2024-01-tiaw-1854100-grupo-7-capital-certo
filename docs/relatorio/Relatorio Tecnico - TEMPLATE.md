@@ -168,7 +168,7 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 
 ## Mapa de navegação
 
-<img src="images/User Flow Template.jpg">
+<img src="images/User Flow Template (1).jpg">
 
 
 # Conclusões
