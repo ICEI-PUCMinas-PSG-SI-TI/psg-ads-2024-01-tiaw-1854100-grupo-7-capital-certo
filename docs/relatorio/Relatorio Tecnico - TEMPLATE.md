@@ -168,16 +168,7 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 
 ## Mapa de navegação
 
-......  COLOQUE AQUI O SEU TEXTO OU DIAGRAMA DE NAVEGAÇÃO .......
-
-> Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
-> um usuário deve realizar para utilizar todas as características do seu sistema. 
-
-
-> **Exemplo de Diagrama (opcional, pode ser em texto)**
-
-![User Flow Template]
-![User Flow Template (1)](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-7-capital-certo/assets/166442102/c982aa2c-a17c-4613-a073-68f0d22d8b09)
+<img src="images/User Flow Template.jpg">
 
 
 # Conclusões
