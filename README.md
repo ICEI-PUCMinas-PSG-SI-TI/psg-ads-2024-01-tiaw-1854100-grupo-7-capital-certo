@@ -24,5 +24,10 @@ https://miro.com/welcomeonboard/NWVoZU5ySFRKQ1JmRzFKQm9EbFJFTTljaW04d3paSHJJaHJs
 Wireframes
 https://www.figma.com/file/n1LFq59ndizHNqvqS0THEB/Wireframes-do-projeto?type=design&node-id=0%3A1&mode=design&t=tLEnWC1QPvCGPg3Q-1
 
+Slide
+
+
+
+
 
 
