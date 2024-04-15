@@ -176,7 +176,8 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 
 > **Exemplo de Diagrama (opcional, pode ser em texto)**
 
-![User Flow Template](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-7-capital-certo/assets/166442102/701fbc66-3e0d-4a18-a0d5-2c75201cf060)
+![User Flow Template]
+![User Flow Template (1)](https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-ads-2024-01-tiaw-1854100-grupo-7-capital-certo/assets/166442102/c982aa2c-a17c-4613-a073-68f0d22d8b09)
 
 
 # Conclusões
