@@ -118,8 +118,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RF-006| Permitir que mentores definam horários disponíveis e que mentees agendem sessões, facilitando a comunicação entre mentor e mentee. | MEDIA |
 |RF-007| Permitir que o usuario tenha acesso a videos relacionados a educação financeira |  MEDIA |
 |RF-008| Integrar ferramenta de analise de gastos e lucros mensais | MEDIA |
-|RF-009| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
-|RF-010| DESCRIÇÃO DO REQUISITO | PRIORIDADE BAIXA / MEDIA / ALTA |
+|RF-009| Permitir que os usuarios tenham acesso a um time de advogados parceiros para esclarecer e ajudar em questões tributarias | MEDIA |
+|RF-010| Dusponibilizar uma area com dúvidas frequentes para auxiliar o usuario | MEDIA |
 
 
 ### Requisitos Não Funcionais
