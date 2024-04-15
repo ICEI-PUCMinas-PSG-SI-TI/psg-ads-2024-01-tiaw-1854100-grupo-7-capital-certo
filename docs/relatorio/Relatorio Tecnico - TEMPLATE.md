@@ -73,8 +73,12 @@ A coleta de dados para a criação das personas e histórias de usuários foi re
 >
 > Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
 > e/ou nos seguintes links:
->
-(images/persona.png)
+
+<img src="persona1">
+
+<img src="persona2">
+
+<img src="persona3">
  
 
 ## Histórias de Usuários
