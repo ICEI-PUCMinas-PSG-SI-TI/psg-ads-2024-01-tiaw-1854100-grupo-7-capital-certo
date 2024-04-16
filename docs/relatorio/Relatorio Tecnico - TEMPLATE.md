@@ -80,8 +80,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Quero calcular meu imposto de renda anual | Entender melhor minha situação fiscal.|
 |Usuário do sistema  | Como usuário internacional, quero converter moedas estrangeiras para minha moeda local | Para realizar transações financeiras com clareza |
-|Usuário do sistema  | Como investidor, quero entender como a inflação afeta o valor do meu dinheiro ao longo do tempo.
- | Para saber o valor do meu dinheiro |
+|Usuário do sistema  | Como investidor, quero entender como a inflação afeta o valor do meu dinheiro ao longo do tempo.| Para saber o valor do meu dinheiro|
 |Usuário do sistema  | Como preocupado com o futuro, quero utilizar um planejador de aposentadoria | Para visualizar e ajustar meu plano de poupança e investimento |
 |Usuário do sistema  | Como entusiasta de mercado financeiro, quero ter acesso a gráficos financeiros atualizados e personalizáveis | Para visualizar o desempenho de ativos financeiros.|
 |Usuário do sistema  | Como interessado em melhorar minha educação financeira, quero ter acesso a vídeos e artigos informativos sobre investimentos e planejamento financeiro. | Para aprender sobre educação financeira |
