@@ -82,18 +82,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Administrador       | Sempre atualizar os cursos e artigos| Fornecer ao usuário um vasto conteúdo e de qualidade |
 |Usuário do sistema  | Registrar minhas tarefas            | Não esquecer de fazê-las                             |
 |Administrador       | Alterar permissões                  | Permitir que possam administrar contas               |
-|Usuário do sistema  | Registrar minhas tarefas            | Não esquecer de fazê-las                             |
-|Administrador       | Alterar permissões                  | Permitir que possam administrar contas               |
-
-
-> Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> da sua aplicação. Utilize as personas criadas como atores e, se for o caso, um administrador. 
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos
 
