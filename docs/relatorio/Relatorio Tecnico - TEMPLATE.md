@@ -76,10 +76,15 @@ A coleta de dados para a criação das personas e histórias de usuários foi re
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`  |PARA ... `MOTIVO/VALOR`                               |
+|--------------------|-------------------------------------|------------------------------------------------------|
+|Andréia             | Usar o conversor de câmbio          | Economizar dinheiro buscando pelas melhores taxas    |
+|Administrador       | Sempre atualizar os cursos e artigos| Fornecer ao usuário um vasto conteúdo e de qualidade |
+|Usuário do sistema  | Registrar minhas tarefas            | Não esquecer de fazê-las                             |
+|Administrador       | Alterar permissões                  | Permitir que possam administrar contas               |
+|Usuário do sistema  | Registrar minhas tarefas            | Não esquecer de fazê-las                             |
+|Administrador       | Alterar permissões                  | Permitir que possam administrar contas               |
+
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
