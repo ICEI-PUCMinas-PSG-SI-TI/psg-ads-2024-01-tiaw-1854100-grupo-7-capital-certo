@@ -13,11 +13,7 @@ Arthur Medeiros de Moraes
 
 Eduardo Medeiros de Moraes
 
-Octávio Viera de Azevedo
-
 Rafael Oliveira Moreira
-
-Luiz Felipe Souza Gomes
 
 # Estrutura do Documento
 
