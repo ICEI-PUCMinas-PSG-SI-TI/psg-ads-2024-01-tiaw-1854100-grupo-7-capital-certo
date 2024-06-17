@@ -5,8 +5,6 @@ O projeto tem como objetivo desenvolver uma aplicação de software dedicada à 
 
 * Eduardo Medeiros de Moraes
 * Arthur Medeiros de Moraes
-* Octávio Vieira de Azevedo
-* Luiz Felipe Souza Gomes 
 * Rafael Oliveira Moreira
 
 ## Professores responsáveis
