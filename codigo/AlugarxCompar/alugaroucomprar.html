@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alugar ou Financiar</title>
+    <link rel="stylesheet" href="/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light bb-1">
+          <div class="container-fluid">
+            <a class="navbar-brand" href="#">Logo</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+              aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link active" aria-current="page" href="#">Página Inicial</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Perguntas Frequentes</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#">Contato</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+    </header>
+    <main>
+        <h1></h1>
+        <div class="container">
+            <div class="form-section">
+                <h2>Informações sobre o imóvel</h2>
+                <label for="valorCompra">Valor de compra</label>
+                <input type="number" id="valorCompra" placeholder="R$">
+                <label for="valorAluguel">Valor do Aluguel</label>
+                <input type="number" id="valorAluguel" placeholder="R$">
+                <label for="valorizacaoAnual">Valorização Anual</label>
+                <input type="number" id="valorizacaoAnual" placeholder="média: 3% a 5%" step="0.01">
+                <label for="valorIGPM">Valor do IGPM</label>
+                <input type="number" id="valorIGPM" placeholder="média: 8,63%" step="0.01">
+            </div>
+    
+            <div class="form-section">
+                <h2>Financiamento</h2>
+                <label for="entrada">Entrada</label>
+                <input type="number" id="entrada" placeholder="R$">
+                <label for="outrosCustos">Outros custos com o financiamento</label>
+                <input type="number" id="outrosCustos" placeholder="R$">
+                <label for="prazoFinanciamento">Prazo de financiamento (meses)</label>
+                <input type="number" id="prazoFinanciamento" placeholder="0" step="1">
+                <label for="cet">Custo Efetivo Total (CET)</label>
+                <input type="number" id="cet" placeholder="0,00%" step="0.01">
+            </div>
+    
+            <div class="form-section">
+                <button id="buttonCalcular" onclick="calcularResultados()">Calcular</button>
+            </div>
+    
+            <div class="results-section">
+                <h2>Financiando</h2>
+                <label for="patrimonioTotalFinanciando">Patrimônio total</label>
+                <input type="text" id="patrimonioTotalFinanciando" readonly>
+                <label for="totalPagoFinanciando">Total pago financiando</label>
+                <input type="text" id="totalPagoFinanciando" readonly>
+                <label for="totalAportadoFinanciando">Total aportado</label>
+                <input type="text" id="totalAportadoFinanciando" readonly>
+            </div>
+    
+            <div class="results-section">
+                <h2>Alugando e Investindo</h2>
+                <label for="patrimonioTotalAlugInvestindo">Patrimônio total *considerando investimentos iguais ou acima da Valorização*</label>
+                <input type="text" id="patrimonioTotalAlugInvestindo" readonly>
+                <label for="totalPagoAluguel">Total pago de aluguel</label>
+                <input type="text" id="totalPagoAluguel" readonly>
+                <label for="totalAportadoAlugInvestindo">Total aportado</label>
+                <input type="text" id="totalAportadoAlugInvestindo" readonly>
+            </div>
+        </div>
+    </main>    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+    crossorigin="anonymous"></script>
+    <script src="/script.js"></script>
+</body>
+</html>
