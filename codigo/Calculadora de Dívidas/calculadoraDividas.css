@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-bottom: 1px solid;
+}
+
+header nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+    background-color: #f4f4f4;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+form {
+    margin: 20px 0;
+}
+
+form label {
+    display: block;
+    margin: 10px 0 5px;
+}
+
+form input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+button, #learn-more-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#Calcular:hover, #buttonControleDivida:hover {
+    background-color: #0056b3;
+}
+
+#resultados, #controleDivida {
+    margin-top: 20px;
+}
+
+.charts-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+
+.chart {
+    max-width: 1200px;
+    height: 200px;
+}
+
+#control-debt {
+    text-align: center;
+    margin-top: 40px;
+}
+
+#container-footer {
+    margin-top: 25px;
+    padding: 15px;
+    border-top: 1px solid;
+}
+
+#container-footer > a {
+    text-decoration: none;
+    padding-left: 15px;
+    color: black;
+}
+
+footer {
+    text-align: center;
+}
