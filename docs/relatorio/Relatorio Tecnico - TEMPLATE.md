@@ -78,8 +78,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário do sistema  | Como usuário internacional, quero converter moedas estrangeiras para minha moeda local | Para realizar transações financeiras com clareza |
 |Usuário do sistema  | Como investidor, quero entender como a inflação afeta o valor do meu dinheiro ao longo do tempo.| Para saber o valor do meu dinheiro|
 |Usuário do sistema  | Como usuário, quero simular o rendimento de meu título | Para visualizar e ajustar meu investimento |
-|Usuário do sistema  | Como entusiasta de mercado financeiro, quero ter acesso a gráficos financeiros atualizados e personalizáveis | Para visualizar o desempenho de ativos financeiros.|
-|Usuário do sistema  | Como interessado em melhorar minha educação financeira, quero ter acesso a vídeos e artigos informativos sobre investimentos e planejamento financeiro. | Para aprender sobre educação financeira |
+|Usuário do sistema  | Como usúario, quero simular o valor final do meu patrimônio com e sem a compra do imóvel | Para saber o valor final do meu patrimônio |
+|Usuário do sistema  | Como usuário, quero calcular minha dívida | Para saber quanto eu devo |
 
 ## Requisitos
 
@@ -89,16 +89,12 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário faça o cálculo do tempo necessário para aposentadoria privada | MÉDIA | 
-|RF-002| Permitir que o usuário selecione um período de tempo para calcular a inflação acumulada no Brasil nesse período.   | MÉDIA |
-|RF-003| Permitir que o usuário faça o cálculo de imposto de renda | MÉDIA |
-|RF-004| Permitir que o usuário veja o valor do câmbio de moedas de diferentes países | MÉDIA |
-|RF-005| Integrar ferramentas como calculadoras de orçamento ou simuladores de investimento para oferecer aos usuários recursos financeiros úteis. | ALTA |
-|RF-006| Permitir que mentores definam horários disponíveis e que mentees agendem sessões, facilitando a comunicação entre mentor e mentee. | MEDIA |
-|RF-007| Permitir que o usuario tenha acesso a videos relacionados a educação financeira |  MEDIA |
-|RF-008| Integrar ferramenta de analise de gastos e lucros mensais | MEDIA |
-|RF-009| Permitir que os usuarios tenham acesso a um time de advogados parceiros para esclarecer e ajudar em questões tributarias | MEDIA |
-|RF-010| Dusponibilizar uma area com dúvidas frequentes para auxiliar o usuario | MEDIA |
+|RF-001| Permitir que o usuário, faça o cálculo do seu título | MÉDIA | 
+|RF-002| Permitir que o usuário, selecione um período de tempo para calcular a inflação acumulada no Brasil nesse período. | MÉDIA |
+|RF-003| Permitir que o usuário, faça o cálculo de imposto de renda | MÉDIA |
+|RF-004| Permitir que o usuário, veja o valor do câmbio de moedas de diferentes países | MÉDIA |
+|RF-005| Permitir que o usuário, simule o valor do patrimonio com e sem a compra de um imóvel | MÉDIA |
+|RF-006| Permitir que o usúario, calcule suas dívidas | MEDIA |
 
 
 ### Requisitos Não Funcionais
@@ -108,11 +104,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RNF-001|Interface fácil de usar para uma navegação sem complicações.| ALTA | 
 |RNF-002|A plataforma deve ser acessível para pessoas com diferentes habilidades.| ALTA |
 |RNF-003|Tempos de carregamento rápidos e respostas ágeis às interações do usuário.| MÉDIA |
-|RNF-004|Proteção robusta das informações pessoais e financeiras dos usuários.| ALTA |
-|RNF-005|Funcionamento eficaz em uma variedade de dispositivos e sistemas operacionais.| MÉDIA |
-|RNF-006|Permitir aos usuários ajustar preferências e receber recomendações personalizadas, não essencial para funcionalidade básica.| BAIXA |
-|RNF-007|Adaptar o conteúdo e as práticas financeiras para diferentes idiomas e culturas, importante para alcançar uma base de usuários global.| MÉDIA |
-|RNF-008|Implementar um sistema de manutenção eficiente para garantir relevância contínua, prioridade menor durante o estágio inicial.| BAIXA |
+|RNF-004|Funcionamento eficaz em uma variedade de dispositivos e sistemas operacionais.| MÉDIA |
 
 
 # Projeto da Solução
@@ -127,19 +119,17 @@ JavaScript: Linguagem para implementar funcionalidades interativas no site, como
 
 Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 
+API: Interface de Programação de Aplicativos (API, do inglês Application Programming Interface) que permite a integração e interoperabilidade entre diferentes sistemas e aplicações.
+
 ## Wireframes
 
-<img src="images/imagem_2024-04-14_173212743.png">
-<img src="images/imagem_2024-04-14_173820701.png">
-<img src="images/imagem_2024-04-14_174220617.png">
-<img src="images/imagem_2024-04-14_175001446.png">
-<img src="images/imagem_2024-04-14_175147846.png">
-<img src="images/imagem_2024-04-14_175330452.png">
-<img src="images/imagem_2024-04-14_175559796.png">
-<img src="images/imagem_2024-04-14_175815312.png">
-<img src="images/imagem_2024-04-14_180047693.png">
-<img src="images/imagem_2024-04-14_232458549.png">
-<img src="images/imagem_2024-04-14_233416617.png">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
 
 
 
@@ -147,7 +137,7 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 
 ## Mapa de navegação
 
-<img src="images/User Flow Template (1).jpg">
+<img src="">
 
 
 # Conclusões
@@ -158,4 +148,10 @@ Bootstrap: Framework para desenvolvimento HTML, CSS e JavaScript.
 > o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
 > as principais dificuldes encontradas e como foi possível contorná-las. 
 
+O projeto de desenvolvimento do software de Capital Certo abordou de forma ampla a necessidade de oferecer soluções educativas para a falta de educação financeira, que contribui significativamente para a perpetuação do ciclo de pobreza em diversas comunidades. O objetivo geral do projeto é criar uma plataforma interativa e acessível que disponibilize informações claras sobre educação financeira, além de desenvolver ferramentas práticas e recursos de acompanhamento para auxiliar os usuários a aplicar esses conhecimentos em suas vidas.
 
+O público-alvo da aplicação é diversificado, incluindo pessoas de todas as faixas etárias e níveis de escolaridade que enfrentam desafios relacionados à falta de educação financeira, bem como educadores, assistentes sociais e outros profissionais que trabalham diretamente com comunidades em situação de vulnerabilidade socioeconômica.
+
+Para atender às necessidades desse público, o projeto utilizou uma abordagem centrada no usuário, com a coleta de dados por meio de entrevistas qualitativas para a criação de personas e histórias de usuários. Isso resultou em um conjunto de requisitos funcionais e não funcionais que nortearam o desenvolvimento do software.
+
+As tecnologias e frameworks empregados no projeto, como HTML, CSS, JavaScript, Bootstrap e API, permitiram a implementação de uma plataforma interativa, responsiva e integrada, capaz de oferecer recursos educativos, ferramentas de cálculo e simulação, conversão de moedas e outras funcionalidades relevantes para a promoção da educação financeira e, consequentemente, para a erradicação da pobreza.
