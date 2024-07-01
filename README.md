@@ -23,6 +23,7 @@ Wireframes
 https://www.figma.com/file/n1LFq59ndizHNqvqS0THEB/Wireframes-do-projeto?type=design&node-id=0%3A1&mode=design&t=tLEnWC1QPvCGPg3Q-1
 
 Slide
+https://www.canva.com/design/DAGJoLT7evE/doT3evkJJSxFi4-AMk8__w/edit?utm_content=DAGJoLT7evE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 
 
