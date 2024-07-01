@@ -122,12 +122,12 @@ API: Interface de Programação de Aplicativos (API, do inglês Application Prog
 ## Wireframes
 
 <img src="images/wireframe1.png">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="images/wireframe2.png">
+<img src="images/wireframe3.png">
+<img src="images/wireframe4.png">
+<img src="images/wireframe5.png">
+<img src="images/wireframe6.png">
+<img src="images/wireframe7.png">
 
 
 
