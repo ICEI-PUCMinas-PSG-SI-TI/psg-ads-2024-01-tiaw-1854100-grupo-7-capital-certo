@@ -7,6 +7,13 @@ function calcularResultados() {
     const outrosCustos = parseFloat(document.getElementById('outrosCustos').value);
     const prazoFinanciamento = parseInt(document.getElementById('prazoFinanciamento').value); 
     const cet = parseFloat(document.getElementById('cet').value) / 100;
+    
+    
+
+    if (isNaN(valorCompra) || isNaN(valorAluguel) || isNaN(valorizacaoAnual) || isNaN(valorIGPM) || isNaN(entrada) || isNaN(outrosCustos) || isNaN(prazoFinanciamento) || isNaN(cet) ) {
+        alert("Por favor, preencha todos os campos.");
+        return;
+    }
 
     const valorFinanciado = valorCompra - entrada + outrosCustos;
     const jurosMensal = cet / 12;
