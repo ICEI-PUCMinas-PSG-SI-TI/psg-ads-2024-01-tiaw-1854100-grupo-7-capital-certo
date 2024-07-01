@@ -61,7 +61,7 @@ A coleta de dados para a criação das personas e histórias de usuários foi re
 
 <img src="images/novapersona1.png">
 
-<img src="images/persona2.jpg">
+<img src="images/persona2.png">
 
 <img src="images/novapersona2.png">
  
