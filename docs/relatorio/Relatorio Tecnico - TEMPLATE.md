@@ -59,11 +59,11 @@ A coleta de dados para a criação das personas e histórias de usuários foi re
 
 ## Personas
 
-<img src="images/persona1.jpg">
+<img src="images/novapersona1.jpg">
 
 <img src="images/persona2.jpg">
 
-<img src="images/persona3.jpg">
+<img src="images/novapersona2.jpg">
  
 
 ## Histórias de Usuários
