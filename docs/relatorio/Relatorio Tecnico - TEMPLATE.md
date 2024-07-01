@@ -135,7 +135,7 @@ API: Interface de Programação de Aplicativos (API, do inglês Application Prog
 
 ## Mapa de navegação
 
-<img src="">
+<img src="images/mapa.png">
 
 
 # Conclusões
